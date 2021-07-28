@@ -14,8 +14,8 @@
 `/covid` : To get All About Covid 19 Informations.
 `/corona` : To get All About Covid 19 Informations.
 
-# What is VPS Statistics Web ?
-Covid-19-Statistics-Telegram Bot is a Telegram Bot you can Track all about Covid 19 Live Statistics in Sri Lanka.
+# What is Covid-19-Statistics-Telegram Bot ?
+Covid-19-Statistics-Telegram Bot can Track all about Covid 19 Live Statistics in Sri Lanka.
 
 # What does it show ?
 * Local Covid 19 Informations
